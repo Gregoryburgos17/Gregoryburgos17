@@ -29,8 +29,8 @@ I'm Gregory Burgos, a seasoned developer with 2 years of experience in Odoo, pro
 - Web scraping with Scrapy.
 
 📫 **How to reach me:**
-- Drop me an email at gregoryburgos@example.com.
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/gregoryburgos/).
+- Drop me an email at gregoryburgos23@gmail.com
+- Connect with me on [LinkedIn]([https://www.linkedin.com/in/gregoryburgos/](https://www.linkedin.com/in/gregory-yeriel-burgos-de-paula-7148a9183/)).
 
 😄 **Pronouns:**
 - He/Him
