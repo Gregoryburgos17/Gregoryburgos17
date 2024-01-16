@@ -30,8 +30,8 @@ I'm Gregory Burgos, a seasoned developer with 2 years of experience in Odoo, pro
 
 📫 **How to reach me:**
 - Drop me an email at gregoryburgos23@gmail.com
-- Connect with me on [LinkedIn]([https://www.linkedin.com/in/gregoryburgos/](https://www.linkedin.com/in/gregory-yeriel-burgos-de-paula-7148a9183/)).
-- Connect with me on  [Youtube]([www.youtube.com/@desarrollog1753))
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/gregory-yeriel-burgos-de-paula-7148a9183/).
+- Subscribe to my [YouTube Channel](https://www.youtube.com/@desarrollog1753).
 
 😄 **Pronouns:**
 - He/Him
